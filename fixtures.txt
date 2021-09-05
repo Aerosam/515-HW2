@@ -1,0 +1,36 @@
+F	Fenerbahce	Besiktas	2	:	2
+F	Sakarya BB	Ankaragucu	3	:	2
+F	Besiktas	Sakarya BB	1	:	3
+V	Besiktas	Galatasaray	3	:	0
+B	Fenerbahce	Anadolu Efes	88	:	62
+B	Tofas	Galatasaray	90	:	88
+V	Thy	Vakifbank	3	:	1
+B	Anadolu Efes	Galatasaray	65	:	64
+B	Tofas	Fenerbahce	78	:	60
+B	Anadolu Efes	Tofas	82	:	77
+F	Fenerbahce	Ankaragucu	3	:	0
+B	Fenerbahce	Galatasaray	56	:	55
+V	Thy	Galatasaray	3	:	2
+V	Vakifbank	Besiktas	2	:	3
+F	Sakarya BB	Fenerbahce	3	:	1
+F	Ankaragucu	Besiktas	2	:	1
+F	Sakarya BB	Besiktas	0	:	2
+B	Fenerbahce	Tofas	75	:	74
+V	Besiktas	Thy	1	:	3
+F	Ankaragucu	Fenerbahce	0	:	0
+B	Galatasaray	Anadolu Efes	65	:	63
+B	Galatasaray	Fenerbahce	80	:	82
+B	Tofas	Anadolu Efes	90	:	89
+V	Galatasaray	Vakifbank	0	:	3
+F	Fenerbahce	Sakarya BB	0	:	1
+V	Galatasaray	Besiktas	1	:	3
+F	Besiktas	Ankaragucu	1	:	1
+V	Vakifbank	Thy	3	:	0
+F	Ankaragucu	Sakarya BB	1	:	2
+B	Galatasaray	Tofas	78	:	100
+V	Besiktas	Vakifbank	3	:	1
+V	Galatasaray	Thy	3	:	2
+B	Anadolu Efes	Fenerbahce	105	:	97
+F	Besiktas	Fenerbahce	1	:	0
+V	Thy	Besiktas	0	:	3
+V	Vakifbank	Galatasaray	2	:	3
